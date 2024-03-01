@@ -7,7 +7,7 @@ export default component({
   display: {
     label: "Kustomer",
     description: "Componente para hacer consulta de plantillas de kustomer",
-    iconPath: "icon.png",
+    iconPath: "kustomer.png",
   },
   actions,
 });
